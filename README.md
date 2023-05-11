@@ -46,16 +46,13 @@ Simon Game - JS, jQuery -
 
 Weather App - Node.js, Express -
 
-![Animations](https://user-images.githubusercontent.com/106253049/176192513-44f1c381-4baf-4f4a-b10c-e919f55bccad.gif)
 
 ## Project 8:
 
 Newsletter Sign-up Page - Node.js, Express, Bootstrap, etc. - 
 
-![Animations](https://user-images.githubusercontent.com/106253049/176145248-f6cc3567-e507-4ef8-81c0-3e9bd16f7ec3.gif)
 
 ## Project 9: 
 
 To do list - Node.js, MongoDB, etc. - 
 
-![Animations](https://user-images.githubusercontent.com/106253049/177490740-a9c925dc-35cf-4769-9974-9d76f9eca1c5.gif)
